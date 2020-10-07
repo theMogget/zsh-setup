@@ -1,4 +1,5 @@
-# zsh-setup
+# .zshrc
+My .zshrc file.
 
 Plugins:
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md])
