@@ -1,5 +1,5 @@
 # .zshrc
-My .zshrc file.
+My .zshrc file and other dev env things.
 
 1. Install [iTerm](https://iterm2.com/)
 2. Install [oh-my-zsh](https://ohmyz.sh/#install)
@@ -19,3 +19,5 @@ Others:
 * Notion
 * Authy
 * [Rectangle](https://github.com/rxhanson/Rectangle)
+* nvm
+* [Python3](https://opensource.com/article/19/5/python-3-default-mac#what-to-do)
